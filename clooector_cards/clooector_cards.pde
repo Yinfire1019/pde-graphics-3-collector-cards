@@ -1,8 +1,8 @@
 /**
- * <program/assignment name>
- * by <Your Name>
+ * <clooector card>
+ * by <Fengyuan>
  * 
- * <Two sentence description of program>
+ * <creating a collector card>
  * 
  */
 PImage dog; // Global variable declaration
